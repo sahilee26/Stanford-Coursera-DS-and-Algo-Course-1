@@ -2,4 +2,4 @@
 Divide and Conquer,Searching ,sorting and Randomised Algorithms
 
 ## Description 
-It contains various algorithms taught and then asked to implement in programming exercises.
+It contains various algorithms taught and then asked to implement in programming exercises along with earned certificate.
